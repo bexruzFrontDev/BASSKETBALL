@@ -19,7 +19,7 @@ body{
     animation-duration: alternate;
    animation-iteration-count: infinite;
 }
-@keyframes  box-animator {
+@keyframes ball {
     0%{
         left: 60%;
         top: 25%;
